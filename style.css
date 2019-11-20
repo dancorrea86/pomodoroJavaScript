@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.timmer {
+  display: flex;
+  background: brown;
+}
+
+.pomodoro_tasks_window {
+  list-style-type: none;
+}
